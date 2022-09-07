@@ -1,2 +1,2 @@
 # Face-Recognition
-Deep learning
+A Deep Learning Project used a OpenCV and Face recognition Python Libraries
